@@ -1,1 +1,0 @@
-src/trysgact.c

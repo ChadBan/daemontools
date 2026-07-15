@@ -1,1 +1,0 @@
-src/find-systype.sh

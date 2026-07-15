@@ -1,3 +1,0 @@
-#!/bin/sh
-echo second
-svc -x .

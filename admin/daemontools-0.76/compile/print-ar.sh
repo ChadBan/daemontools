@@ -1,1 +1,0 @@
-src/print-ar.sh
